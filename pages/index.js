@@ -54,7 +54,7 @@ const Home = ({ blogposts }) => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="/">Dev.io!</a>
+          Welcome to <a href="#">Dev.io!</a>
         </h1>
 
         <div className={styles.grid}>

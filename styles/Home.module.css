@@ -1,8 +1,8 @@
-.container {
+/* .container {
   padding: 0 2rem;
-}
+} */
 
-.main {
+/* .main {
   min-height: 100vh;
   padding: 4rem 0;
   flex: 1;
@@ -10,7 +10,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-}
+} */
 
 .footer {
   display: flex;
@@ -72,7 +72,7 @@
   flex-wrap: wrap;
   max-width: 800px;
 }
-
+/* 
 .card {
   margin: 1rem;
   padding: 1.5rem;
@@ -101,7 +101,7 @@
   margin: 0;
   font-size: 1.25rem;
   line-height: 1.5;
-}
+} */
 
 .logo {
   height: 1em;
